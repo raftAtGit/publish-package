@@ -1,9 +1,9 @@
 {
-  "name": "hello-publish-world",
+  "name": "@raftAtGit/hello-publish-world",
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raftAtGit/publish-the-fckn-package"    
+    "url": "https://github.com/raftAtGit/publish-the-fckn-package.git"    
   },
   
   "scripts": {
