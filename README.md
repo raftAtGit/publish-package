@@ -1,3 +1,5 @@
+[![Publish NPM](https://github.com/raftAtGit/publish-the-fckn-package/actions/workflows/publish-npm.yaml/badge.svg)](https://github.com/raftAtGit/publish-the-fckn-package/actions/workflows/publish-npm.yaml)
+
 # Welcome to the exercise on publishing packages!
 
 This exercise checks your ability to publish to a GitHub Packages registry. It is automatically graded via a workflow once you have completed the instructions.
