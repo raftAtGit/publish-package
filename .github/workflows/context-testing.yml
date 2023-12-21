@@ -58,4 +58,4 @@ jobs:
           INPUTS_CONTEXT: ${{ toJson(inputs) }}
         run: echo "$INPUTS_CONTEXT"
       - name: Dump inputs context - 2
-        run: echo ${{ toJson(inputs) }}
+        run: echo "${{ toJson(inputs) }}"
