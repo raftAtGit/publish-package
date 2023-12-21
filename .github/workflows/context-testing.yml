@@ -3,8 +3,10 @@ on:
   workflow_dispatch:
     inputs: 
       siksok:
-        required: false
+        required: true
         default: raft
+      naynom:
+        required: false
 env:
   mascot: Mona
 
