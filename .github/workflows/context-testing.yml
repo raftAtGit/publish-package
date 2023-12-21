@@ -1,9 +1,10 @@
 name: Context testing
-on: workflow_dispatch
-  inputs:
-    siksok:
-      required: false
-      default: raft
+on: 
+  workflow_dispatch:
+    inputs: 
+      siksok:
+        required: false
+        default: raft
 env:
   mascot: Mona
 
