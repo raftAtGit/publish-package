@@ -35,5 +35,5 @@ jobs:
           echo "GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_STEP_SUMMARY
       - name: Add more markdown to summary
         run: |
-          echo "## Hello again summary world! :motorbike:" >> $GITHUB_STEP_SUMMARY
+          echo "## Hello again summary world! :speech_balloon:" >> $GITHUB_STEP_SUMMARY
   
